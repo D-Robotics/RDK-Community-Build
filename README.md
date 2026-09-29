@@ -4,23 +4,23 @@
 
 ## About this hub
 
-RDK Community Build turns community experiments into reusable references. Each campaign keeps its own brief, schedule, submission guide, and curated project index here, while every developer or team continues to own and maintain its source repository.
+RDK Community Build turns community experiments into reusable references. Each challenge keeps its own brief, schedule, submission guide, and curated project index here, while every developer or team continues to own and maintain its source repository.
 
 This repository is a showcase and discovery hub. It is not intended to duplicate participant repositories.
 
-## Campaigns
+## Challenges
 
-| Campaign | Challenge | Status |
+| Challenge | Theme | Status |
 | --- | --- | --- |
-| [Pumpkin Robot Campaign](Pumpkin-Robot-Campaign/README.md) | **Hack a Pumpkin. Make it move.** | Preparing |
+| [Pumpkin Robot Challenge](Pumpkin-Robot-Challenge/README.md) | **Hack a Pumpkin. Make it move.** | Preparing |
 
 ## How it works
 
-1. Pick a campaign and review its requirements.
+1. Pick a challenge and review its requirements.
 2. Build and document the project in your own GitHub repository.
 3. Publish a demo video that clearly shows the result.
-4. Fork this repository and add a project profile to the campaign's `projects/` directory.
-5. Open a pull request. Maintainers review and merge qualifying profiles into the campaign showcase.
+4. Fork this repository and add a project profile to the challenge's `projects/` directory.
+5. Open a pull request. Maintainers review and merge qualifying profiles into the challenge showcase.
 
 Participant source code is never merged into this repository. Each creator keeps ownership and maintenance of their own project repository.
 

@@ -1,8 +1,8 @@
-# Pumpkin Robot Campaign
+# Pumpkin Robot Challenge
 
 [Register](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor) · [Submission Guide](SUBMISSION-GUIDE.md) · [Project Template](PROJECT-TEMPLATE.md) · [Project Gallery](projects/README.md)
 
-<!-- Pumpkin Robot Campaign key visual goes here. -->
+<!-- Pumpkin Robot Challenge key visual goes here. -->
 
 ## Hack a pumpkin. Make it move.
 
@@ -22,7 +22,7 @@ A stock demo in a pumpkin-shaped enclosure is a starting point, not a finished e
 
 | Date | What happens |
 | --- | --- |
-| **Oct 1** | Campaign opens |
+| **Oct 1** | Challenge opens |
 | **Oct 1–25** | Build period |
 | **Oct 25** | Submission deadline |
 | **Oct 26–30** | Community demo showcase |
@@ -30,13 +30,13 @@ A stock demo in a pumpkin-shaped enclosure is a starting point, not a finished e
 
 ## How submissions work
 
-This campaign follows the same contribution model as the Robotics Dream Keeper Challenge: your code stays in your own repository, while this repository collects one project profile per entry.
+This challenge follows the same contribution model as the Robotics Dream Keeper Challenge: your code stays in your own repository, while this repository collects one project profile per entry.
 
-1. [Register for the campaign](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor).
+1. [Register for the challenge](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor).
 2. Build and document the project in your own GitHub repository, either solo or as a team.
 3. Record a demo video that shows the complete robot moving and demonstrates its main interaction or AI feature.
 4. Fork `D-Robotics/RDK-Community-Build`.
-5. Add a project profile under [`Pumpkin-Robot-Campaign/projects/`](projects/README.md) using the [Project Template](PROJECT-TEMPLATE.md).
+5. Add a project profile under [`Pumpkin-Robot-Challenge/projects/`](projects/README.md) using the [Project Template](PROJECT-TEMPLATE.md).
 6. Open a pull request. Maintainers review the links and project fit, then merge the profile into the gallery.
 
 We merge the project profile, not the source code. You keep ownership and maintenance of your project repository.
@@ -49,7 +49,7 @@ You need two external links and one pull request:
 
 - **Project repository** — public or accessible to reviewers, owned by you or your team.
 - **Demo video** — a clear recording of the finished robot in action.
-- **Showcase pull request** — a Markdown project profile added under `Pumpkin-Robot-Campaign/projects/`.
+- **Showcase pull request** — a Markdown project profile added under `Pumpkin-Robot-Challenge/projects/`.
 
 Your repository should answer the questions another developer will ask:
 

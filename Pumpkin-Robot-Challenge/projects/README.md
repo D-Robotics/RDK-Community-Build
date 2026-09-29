@@ -1,6 +1,6 @@
 # Pumpkin Robot Projects
 
-This directory is the official project index for the Pumpkin Robot Campaign. Each accepted entry consists of:
+This directory is the official project index for the Pumpkin Robot Challenge. Each accepted entry consists of:
 
 1. a project profile in this directory;
 2. a link to the creator-owned source repository;

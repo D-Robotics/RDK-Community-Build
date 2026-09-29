@@ -60,4 +60,4 @@
 
 ---
 
-I confirm that I have the right to submit this project profile and allow D-Robotics to use it, with creator attribution, for campaign review, showcase, and community promotion. The project source code remains governed by the license in the linked source repository.
+I confirm that I have the right to submit this project profile and allow D-Robotics to use it, with creator attribution, for challenge review, showcase, and community promotion. The project source code remains governed by the license in the linked source repository.

@@ -1,6 +1,6 @@
 # Submit a Pumpkin Robot Project
 
-The campaign uses a GSoC-style repository model:
+The challenge uses a GSoC-style repository model:
 
 - Your source code, build logs, and detailed documentation stay in your own repository.
 - This repository stores one Markdown project profile per entry.
@@ -35,10 +35,10 @@ Keep the branch limited to one project submission.
 
 ## 3. Add your project profile
 
-Copy the template into the campaign project directory:
+Copy the template into the challenge project directory:
 
 ```text
-Pumpkin-Robot-Campaign/projects/<ParticipantName>-Project-<ProjectSlug>.md
+Pumpkin-Robot-Challenge/projects/<ParticipantName>-Project-<ProjectSlug>.md
 ```
 
 Examples:
@@ -71,7 +71,7 @@ Do not reorder or rewrite other entries.
 ## 6. Commit and push
 
 ```bash
-git add Pumpkin-Robot-Campaign/projects/
+git add Pumpkin-Robot-Challenge/projects/
 git commit -m "Add Pumpkin Robot project: <ProjectName>"
 git push -u origin showcase/<github-username>-<project-slug>
 ```

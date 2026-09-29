@@ -1,12 +1,12 @@
-# Pumpkin Robot Campaign Timeline
+# Pumpkin Robot Challenge Timeline
 
-The public build and submission schedule for the Pumpkin Robot Campaign.
+The public build and submission schedule for the Pumpkin Robot Challenge.
 
 ## Milestones
 
 | Date | Milestone | What to do |
 | --- | --- | --- |
-| **Oct 1** | Campaign opens | Review the requirements and start building. |
+| **Oct 1** | Challenge opens | Review the requirements and start building. |
 | **Oct 1–25** | Build period | Build in your own repository, document progress, and record the demo. |
 | **Oct 25** | Submission deadline | Open the showcase pull request with a working repository and demo link. |
 | **Oct 26–30** | Community demo showcase | Keep submission links available and respond to review questions. |

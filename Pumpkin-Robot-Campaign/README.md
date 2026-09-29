@@ -1,6 +1,6 @@
 # Pumpkin Robot Campaign
 
-[Submission Guide](SUBMISSION-GUIDE.md) · [Project Template](PROJECT-TEMPLATE.md) · [Project Gallery](projects/README.md)
+[Register](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor) · [Submission Guide](SUBMISSION-GUIDE.md) · [Project Template](PROJECT-TEMPLATE.md) · [Project Gallery](projects/README.md)
 
 <!-- Pumpkin Robot Campaign key visual goes here. -->
 
@@ -32,11 +32,12 @@ A stock demo in a pumpkin-shaped enclosure is a starting point, not a finished e
 
 This campaign follows the same contribution model as the Robotics Dream Keeper Challenge: your code stays in your own repository, while this repository collects one project profile per entry.
 
-1. Build and document the project in your own GitHub repository, either solo or as a team.
-2. Record a demo video that shows the complete robot moving and demonstrates its main interaction or AI feature.
-3. Fork `D-Robotics/RDK-Community-Build`.
-4. Add a project profile under [`Pumpkin-Robot-Campaign/projects/`](projects/README.md) using the [Project Template](PROJECT-TEMPLATE.md).
-5. Open a pull request. Maintainers review the links and project fit, then merge the profile into the gallery.
+1. [Register for the campaign](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor).
+2. Build and document the project in your own GitHub repository, either solo or as a team.
+3. Record a demo video that shows the complete robot moving and demonstrates its main interaction or AI feature.
+4. Fork `D-Robotics/RDK-Community-Build`.
+5. Add a project profile under [`Pumpkin-Robot-Campaign/projects/`](projects/README.md) using the [Project Template](PROJECT-TEMPLATE.md).
+6. Open a pull request. Maintainers review the links and project fit, then merge the profile into the gallery.
 
 We merge the project profile, not the source code. You keep ownership and maintenance of your project repository.
 

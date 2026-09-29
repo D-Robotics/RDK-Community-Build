@@ -1,0 +1,45 @@
+# RDK Community Build
+
+> The official Community developer project hub for discovering, collecting, and showcasing what people build with D-Robotics RDK.
+
+## About this hub
+
+RDK Community Build turns community experiments into reusable references. Each campaign keeps its own brief, schedule, submission guide, and curated project index here, while every developer or team continues to own and maintain its source repository.
+
+This repository is a showcase and discovery hub. It is not intended to duplicate participant repositories.
+
+## Campaigns
+
+| Campaign | Challenge | Status |
+| --- | --- | --- |
+| [Pumpkin Robot Campaign](Pumpkin-Robot-Campaign/README.md) | **Hack a Pumpkin. Make it move.** | Preparing |
+
+## How it works
+
+1. Pick a campaign and review its requirements.
+2. Build and document the project in your own GitHub repository.
+3. Publish a demo video that clearly shows the result.
+4. Fork this repository and add a project profile to the campaign's `projects/` directory.
+5. Open a pull request. Maintainers review and merge qualifying profiles into the campaign showcase.
+
+Participant source code is never merged into this repository. Each creator keeps ownership and maintenance of their own project repository.
+
+## What a featured project should explain
+
+- What the project does
+- Demo video and project photos
+- Main features and bill of materials
+- How RDK is used
+- System architecture
+- Future ideas and source code
+
+## Resources
+
+- [D-Robotics Developer Center](https://developer.d-robotics.cc/rdk_doc_center/)
+- [RDK documentation source](https://github.com/D-Robotics/rdk_doc)
+- [RDK Model Zoo](https://github.com/D-Robotics/rdk_model_zoo)
+- [D-Robotics on GitHub](https://github.com/D-Robotics)
+
+## License
+
+Each linked community project is governed by the license in its own repository.

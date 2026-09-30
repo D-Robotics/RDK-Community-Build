@@ -24,11 +24,10 @@ A stock demo in a pumpkin-shaped enclosure is a starting point, not a finished e
 
 | Date | What happens |
 | --- | --- |
-| **Oct 1** | Challenge opens |
-| **Oct 1–25** | Build period |
+| **Oct 1** | Campaign launch |
+| **Oct 2–25** | Hack period |
 | **Oct 25** | Submission deadline |
 | **Oct 26–30** | Community demo showcase |
-| **Oct 31–Nov 15** | Project and developer features |
 
 ## How submissions work
 

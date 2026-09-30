@@ -8,6 +8,16 @@ RDK Community Build turns community experiments into reusable references. Each c
 
 This repository is a showcase and discovery hub. It is not intended to duplicate participant repositories.
 
+## Featured challenge
+
+<p align="center">
+  <a href="./Pumpkin-Robot-Challenge/README.md">
+    <img src="./Pumpkin-Robot-Challenge/assets/images/challenge-hero.png" alt="Pumpkin Robot Challenge — Hack a Pumpkin. Make it move." width="720"/>
+  </a>
+</p>
+
+Explore the [Pumpkin Robot Challenge](Pumpkin-Robot-Challenge/README.md): campaign launch on Oct 1, hack period from Oct 2–25, and community demo showcase from Oct 26–30.
+
 ## Challenges
 
 | Challenge | Theme | Status |

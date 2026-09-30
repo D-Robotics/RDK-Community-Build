@@ -2,7 +2,9 @@
 
 [Register](https://docs.google.com/forms/d/e/1FAIpQLSfuGT52LJ6RNDt2Abgb-7JMta5jRFOFBrk_4JrWJK3iXJwx9w/viewform?usp=publish-editor) · [Submission Guide](SUBMISSION-GUIDE.md) · [Project Template](PROJECT-TEMPLATE.md) · [Project Gallery](projects/README.md)
 
-<!-- Pumpkin Robot Challenge key visual goes here. -->
+<p align="center">
+  <img src="./assets/images/challenge-hero.png" alt="Pumpkin Robot Challenge — Hack a Pumpkin. Make it move." width="720"/>
+</p>
 
 ## Hack a pumpkin. Make it move.
 

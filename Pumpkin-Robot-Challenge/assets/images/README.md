@@ -1,10 +1,10 @@
 # Pumpkin Robot Challenge visuals
 
-This directory is intentionally empty for the initial scaffold.
+Campaign visuals used by the Pumpkin Robot Challenge pages.
 
 | Suggested filename | Use | Status |
 | --- | --- | --- |
-| `challenge-hero.webp` | Challenge README hero | Pending |
+| `challenge-hero.png` | Challenge README hero | Added |
 | `timeline.webp` | Optional social timeline graphic | Pending |
 | `demo-showcase.webp` | Showcase cover | Pending |
 

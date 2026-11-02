@@ -11,8 +11,8 @@ Source code stays in the creator's repository. Only the project profile and gall
 
 | Project | Creator | RDK use | Repository | Demo |
 | --- | --- | --- | --- | --- |
-| _No reviewed projects yet_ | — | — | — | — |
 | [Cyclops Pumpkin Robot](CodersCafeTech-Project-CyclopsPumpkin.md) | CodersCafeTech | BPU vision + SPI display/LEDs + GPIO relay | [Repository](https://github.com/CodersCafeTech/Cyclops-Pumpkin) | [Demo](https://youtube.com/shorts/P1_9KhJj4cU) |
+| [Pumpkin](YeJi-Project-Pumpkin.md) | YeJi | BPU person detection + offline ASR + ROS 2 omni drive | [Repository](https://github.com/YeJiAce/pumpkin-robot) | [Demo](https://www.bilibili.com/video/BV1XHsX6NE7K/) |
 
 ## Submit a project
 

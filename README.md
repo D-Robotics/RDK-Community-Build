@@ -10,6 +10,14 @@ This repository is a showcase and discovery hub. It is not intended to duplicate
 
 ## Featured challenge
 
+### Christmas Robot — Xmas Robots 🎄
+
+[Merry Bots-mas! Build a Christmas robot with RDK.](Christmas-Robot/README.md) Registration opens **November 9, 2026**, submissions close **December 20**, and the Final Show & Tell takes place **December 23**. Include a Christmas element and make your robot move.
+
+Keep your project in your own GitHub repository and prepare a **30-second demo video**. No pull request to this hub is required for Xmas Robots. See the [activity page](Christmas-Robot/README.md) for participation details.
+
+### Pumpkin Robot Challenge
+
 <p align="center">
   <a href="./Pumpkin-Robot-Challenge/README.md">
     <img src="./Pumpkin-Robot-Challenge/assets/images/challenge-hero.png" alt="Pumpkin Robot Challenge — Hack a Pumpkin. Make it move." width="720"/>
@@ -22,6 +30,7 @@ Explore the [Pumpkin Robot Challenge](Pumpkin-Robot-Challenge/README.md): campai
 
 | Challenge | Theme | Status |
 | --- | --- | --- |
+| [Christmas Robot — Xmas Robots](Christmas-Robot/README.md) | **Build a Christmas robot with RDK. Make it move.** | Registration opens November 9, 2026 |
 | [Pumpkin Robot Challenge](Pumpkin-Robot-Challenge/README.md) | **Hack a Pumpkin. Make it move.** | Preparing |
 
 ## How it works
@@ -29,8 +38,8 @@ Explore the [Pumpkin Robot Challenge](Pumpkin-Robot-Challenge/README.md): campai
 1. Pick a challenge and review its requirements.
 2. Build and document the project in your own GitHub repository.
 3. Publish a demo video that clearly shows the result.
-4. Fork this repository and add a project profile to the challenge's `projects/` directory.
-5. Open a pull request. Maintainers review and merge qualifying profiles into the challenge showcase.
+4. Follow the submission instructions for your chosen challenge: **Xmas Robots** requires your own repository and a 30-second demo video, with no pull request to this hub required; **Pumpkin Robot Challenge** uses a project-profile pull request.
+5. This hub aggregates and showcases community projects according to each challenge's process.
 
 Participant source code is never merged into this repository. Each creator keeps ownership and maintenance of their own project repository.
 
